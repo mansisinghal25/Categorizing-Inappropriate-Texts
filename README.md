@@ -1,10 +1,10 @@
 # Categorizing-Inappropriate-Texts
 Built a multi-label classification model that detects inappropriate texts and help us to further categorize them. We have used a kaggle dataset which contains Wikipedia comments, and we employed NLP techniques to extract features from this dataset. 
-## Baseline Models
+### Baseline Models
 * Naive Bayes 
 * Logistic Regression 
 
-## Advanced Models
+### Advanced Models
 * SVM
 * Random Forest 
 * Neural Networks
